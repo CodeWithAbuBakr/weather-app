@@ -12,7 +12,7 @@ A sleek and responsive weather application providing real-time weather updates, 
 - [Get in Touch 📩](#contact)
 
 ## Demo
-Check out the live demo of the website: [Weather App](https://waqasahmed042.github.io/weather-app/)
+Check out the live demo of the website: [Weather App](https://codewithabubakr.github.io/weather-app/)
 
 ## Features
 - Essential Features for Weather App.
@@ -50,4 +50,4 @@ To view or edit the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/waqasahmed042/weather-app.git
+   git clone https://github.com/CodeWithAbuBakr/weather-app
