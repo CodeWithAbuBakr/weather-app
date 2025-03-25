@@ -31,7 +31,7 @@ Check out the live demo of the website: [Weather App](https://codewithabubakr.gi
    
    🔍 **Search Functionality** – Easily search for weather conditions in any city.
 
-   Would you like suggestions for animations or extra UX improvements? 🚀
+   Would you like suggestions for animations or extra UX improvements?🚀
 
 ## Technologies Used
 - HTML5
