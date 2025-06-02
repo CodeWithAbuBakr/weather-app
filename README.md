@@ -36,7 +36,7 @@ Check out the live demo of the website: [Weather App](https://codewithabubakr.gi
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 
 ## Project Structure
 The project consists of the following main files:
